@@ -2,7 +2,8 @@
 
 <h2>Módulo V</h2>
 
-Conhecendo Spring Data JPa na prática com Java
+<h3>Conhecendo Spring Data JPa na prática com Java</h3>
+
 Projeto Final - Academia Digital
 
 
